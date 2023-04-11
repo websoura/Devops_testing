@@ -1,0 +1,6 @@
+1. Check for the uploaded image path.
+2. Check image upload and change functionality.
+3. Check image upload functionality with image files of different extensions (For Example, JPEG, PNG, BMP, etc.)
+4. Check image upload functionality with images that have space or any other allowed special character in the file name.
+5. Check for duplicate name image upload.
+6. Check the image upload with an image size greater than the max allowed size. Proper error messages should be displayed.
