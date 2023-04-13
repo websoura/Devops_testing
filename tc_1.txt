@@ -23,4 +23,7 @@
 6. Check the image upload with an image size greater than the max allowed size. Proper error messages should be displayed.
 6. Check the image upload with an image size greater than the max allowed size. Proper error messages should be displayed.
 6. Check the image upload with an image size greater than the max allowed size. Proper error messages should be displayed.
+ Tesla
+7. progress
 test is on progress
+master
